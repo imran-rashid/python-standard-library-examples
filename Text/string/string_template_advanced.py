@@ -1,4 +1,5 @@
-# The default syntax for string.Template can be changed by adjusting the regular expression patterns it uses to find the variable names in the template body. A simple way to do that is to change the delimiter and idpattern class attributes
+# The default syntax for string.Template can be changed by adjusting the regular expression patterns it uses to find the variable names in the template body. 
+# A simple way to do that is to change the delimiter and idpattern class attributes
 
 from string import Template
 
